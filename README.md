@@ -35,13 +35,13 @@ Para invocar el endpoint de pruebas se puede utilizar el comando curl.
 curl -d "hour=10:00:00&timezone=-3" -X POST http://localhost:8080/timeconverter/v1/hours
 ```
 
-## Running the tests
+## Ejecución de los tests
 
 Para la ejecución de los test ejecutamos el siguiente comando.
 ```
 mvn test
 ```
 
-## Authors
+## Autor
 
 * **Augusto Fernando Alva Campos**
