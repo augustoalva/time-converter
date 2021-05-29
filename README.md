@@ -4,7 +4,7 @@ Aplicación que convierte la hora en formato UTC
 
 ## Consideraciones de la implementación
 
-Para el desarrollo del presente proyecto considera la conversión de la hora y zona horaria ingresada en al input a la hora con en la zona horaria local.
+Para el desarrollo del presente proyecto, se considera la conversión de la hora y zona horaria ingresada en el input a la hora con zona horaria local.
 
 ### Prerequisitos
 
